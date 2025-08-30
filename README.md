@@ -1,6 +1,6 @@
 # Minecraft GUI Prototyper (Weekend Project)
 
-A simple tool to prototype vanilla Minecraft inventory GUIs.
+A simple tool to help prototype vanilla Minecraft inventory GUIs.
 
 Drag and drop items, support for items names/lore/count, link buttons between GUIs, and export/import your work.
 
