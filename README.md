@@ -10,6 +10,8 @@ Everything is saved locally.
 - Multiple GUIs per project
 - Drag-and-drop editor like in Minecraft
 - Favorite items
+- Colored text support
+- Edit item name/lore/count
 - Import/Export a single GUI or a whole project (JSON)
 - Presentation Mode to move between GUIs on item click
 - Everything is local (browser localStorage)

@@ -160,9 +160,13 @@ const App = () => {
             Everything is saved locally in your browser.
           </h2>
           <div className="space-x-2 mt-4">
-            {/* <a href="" target="_blank" className="button p-2"> */}
-            {/*   Spigot */}
-            {/* </a> */}
+            <a
+              href="https://www.spigotmc.org/resources/gui-prototyping-tool.128481/"
+              target="_blank"
+              className="button p-2"
+            >
+              Spigot
+            </a>
             <a
               href="https://github.com/nktfh100/mc-gui-prototyper"
               target="_blank"
