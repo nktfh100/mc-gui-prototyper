@@ -163,7 +163,11 @@ const App = () => {
             {/* <a href="" target="_blank" className="button p-2"> */}
             {/*   Spigot */}
             {/* </a> */}
-            <a href="" target="_blank" className="button p-2">
+            <a
+              href="https://github.com/nktfh100/mc-gui-prototyper"
+              target="_blank"
+              className="button p-2"
+            >
               GitHub
             </a>
           </div>
