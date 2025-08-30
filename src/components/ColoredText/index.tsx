@@ -44,7 +44,7 @@ const parseText = (
   let currentText = "";
 
   for (let i = 0; i < inputText.length; i++) {
-    if (inputText[i] === "§") {
+    if (inputText[i] === "§" || inputText[i] === "&") {
       if (currentText) {
         segments.push({ text: currentText, style: { ...currentStyle } });
         currentText = "";

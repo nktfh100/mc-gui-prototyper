@@ -40,6 +40,7 @@ export const ColorsGuideModalButton = () => {
           <p>
             Just like in minecraft you can use the "§" symbol to color texts.
           </p>
+          <p>("&" is also supported.)</p>
           <div className="flex flex-wrap gap-4 mt-4">
             <Color name="Black" code="0" />
             <Color name="Dark Blue" code="1" />
