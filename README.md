@@ -1,4 +1,4 @@
-# Minecraft GUI Prototyper
+# Minecraft GUI Prototyper (Weekend Project)
 
 A simple tool to prototype vanilla Minecraft inventory GUIs.
 
